@@ -1,4 +1,4 @@
--- Author: Jusen Samosir
+-- Author: jusen samosir
 -- Project: MIPS32 single cycle
 -- Module: ControlUnit
 
